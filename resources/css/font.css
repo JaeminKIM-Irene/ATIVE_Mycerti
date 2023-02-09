@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    font-style: normal;
+    font-weight: 200;
+    src: local('SpoqaHanSansNeo Thin'), local('SpoqaHanSansNeo Thin');
+    src: url(../fonts/SpoqaHanSansNeo-Thin.eot);
+    src: url(../fonts/SpoqaHanSansNeo-Thin.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/SpoqaHanSansNeo-Thin.woff2) format('woff2'),
+        url(../fonts/SpoqaHanSansNeo-Thin.woff) format('woff');
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    font-style: normal;
+    font-weight: 300;
+    src: local('SpoqaHanSansNeo Light'), local('SpoqaHanSansNeo Light');
+    src: url(../fonts/SpoqaHanSansNeo-Light.eot);
+    src: url(../fonts/SpoqaHanSansNeo-Light.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/SpoqaHanSansNeo-Light.woff2) format('woff2'),
+        url(../fonts/SpoqaHanSansNeo-Light.woff) format('woff');
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    font-style: normal;
+    font-weight: 500;
+    src: local('SpoqaHanSansNeo Medium'), local('SpoqaHanSansNeo Medium');
+    src: url(../fonts/SpoqaHanSansNeo-Medium.eot);
+    src: url(../fonts/SpoqaHanSansNeo-Medium.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/SpoqaHanSansNeo-Medium.woff2) format('woff2'),
+        url(../fonts/SpoqaHanSansNeo-Medium.woff) format('woff');
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SpoqaHanSansNeo Regular'), local('SpoqaHanSansNeo Regular');
+    src: url(../fonts/SpoqaHanSansNeo-Regular.eot);
+    src: url(../fonts/SpoqaHanSansNeo-Regular.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/SpoqaHanSansNeo-Regular.woff2) format('woff2'),
+        url(../fonts/SpoqaHanSansNeo-Regular.woff) format('woff');
+}
+@font-face {
+    font-family: 'SpoqaHanSansNeo';
+    font-style: normal;
+    font-weight: bold;
+    src: local('SpoqaHanSansNeo Bold'), local('SpoqaHanSansNeo Bold');
+    src: url(../fonts/SpoqaHanSansNeo-Bold.eot);
+    src: url(../fonts/SpoqaHanSansNeo-Bold.eot?#iefix) format('embedded-opentype'),
+        url(../fonts/SpoqaHanSansNeo-Bold.woff2) format('woff2'),
+        url(../fonts/SpoqaHanSansNeo-Bold.woff) format('woff');
+}

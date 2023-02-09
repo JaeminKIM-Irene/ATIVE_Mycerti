@@ -1,0 +1,218 @@
+/* Header */
+header img { max-height: 46px; max-width: 160px; }
+.gnb_area .logo img { max-height: 40px; max-width: 300px; }
+
+.browser_chk_area { background-color: #00ab91; }
+
+/* Input */
+.input_box.type01 input:focus { border-color: #00ab91; }
+.input_box.type02 input:nth-of-type(1):focus + label,
+.input_box.type02 label.focus { border-color: #00ab91 !important; }
+.input_box.type03 select + label.focus.valid { border-color: #00ab91; }
+.input_box.type04 input:valid { border-color: #ffffff; }
+.input_box.type04 input:focus { border-color: #00ab91; }
+.input_box.type04.type_btn .btn { background-color: #00ab91; }
+.input_box.type05 input:valid { border-color: #ffffff; }
+.input_box.type05 input:focus { border-color: #00ab91; }
+.input_box.type_search input:valid { border-color: #ffffff; }
+.input_box.type_search input:focus { border-color: #00ab91; }
+.select_box.type01 select:focus { border-color: #00ab91; }
+.textarea_box:focus { border-color: #00ab91; }
+.contents_area .time_chk_area li input[type="radio"]:checked + .label_text::after,
+.contents_area .time_chk_area li input[type="checkbox"]:checked + .label_text::after,
+.contents_area .brith_chk_area li input[type="radio"]:checked + .label_text::after,
+.contents_area .brith_chk_area li input[type="checkbox"]:checked + .label_text::after,
+.contents_area .certi_list_area .certi_list li input[type="radio"]:checked + .label_area::after,
+.contents_area .certi_list_area .certi_list li input[type="checkbox"]:checked + .label_area::after,
+.contents_area .child_list_area .child_list li input[type="radio"]:checked + .label_area::after,
+.contents_area .child_list_area .child_list li input[type="checkbox"]:checked + .label_area::after { background-color: #00ab91; }
+.popup.typeB.type_radio .chk_list_area input[type="radio"]:checked + label::before { border-color: #00ab91; }
+
+/* Button */
+.btn.colorA { background-color: #00ab91; }
+.btn.colorA:active { background-color: #009A83; }
+.contents_area .link_list.type_wide li .link_btn:active { background-color: #00ab91; border-color: #00ab91; }
+.contents_area .time_chk_area li input[type="radio"]:checked + .label_text,
+.contents_area .time_chk_area li input[type="checkbox"]:checked + .label_text,
+.contents_area .brith_chk_area li input[type="radio"]:checked + .label_text,
+.contents_area .brith_chk_area li input[type="checkbox"]:checked + .label_text { border-color: #00ab91; }
+.contents_area .time_chk_area li input[type="radio"]:checked + .label_text,
+.contents_area .time_chk_area li input[type="checkbox"]:checked + .label_text,
+.contents_area .brith_chk_area li input[type="radio"]:checked + .label_text,
+.contents_area .brith_chk_area li input[type="checkbox"]:checked + .label_text,
+.ident_chk_area ul li input[type="radio"]:checked + label::after,
+.ident_chk_area ul li input[type="checkbox"]:checked + label::after,
+.contents_area .inner_scroll_contents input[type="radio"]:checked + label::after,
+.contents_area .inner_scroll_contents input[type="checkbox"]:checked + label::after { background-color: #00ab91; }
+.contents_area .certi_list_area .certi_list li input[type="radio"]:checked + .label_area,
+.contents_area .certi_list_area .certi_list li input[type="checkbox"]:checked + .label_area,
+.contents_area .child_list_area .child_list li input[type="radio"]:checked + .label_area,
+.contents_area .child_list_area .child_list li input[type="checkbox"]:checked + .label_area { background-color: #00ab91; border-color: #00ab91; }
+.contents_area .info_box_list li .title em,
+.contents_area .contents_box .pay_list li .title em { background-color: #00ab91; }
+
+.bot_btn_area .btn_sub_text { color: #00ab91; }
+.contents_area .bot_text_area dt { color: #00ab91; }
+.contents_area .issued_guide_text dt { color: #00ab91; }
+.contents_area .terms_list_area .top_chk_area label input[type="checkbox"]:checked + i,
+.contents_box .card_type_area label input[type="radio"]:checked + i { background-color: #00ab91 }
+.bot_btn_area .btn_sub_list strong { color: #00ab91; }
+.ident_chk_area ul li input[type="radio"]:checked + label,
+.ident_chk_area ul li input[type="checkbox"]:checked + label { background-color: #00AB91; }
+.contents_area .inner_scroll_contents input[type="radio"]:checked + label,
+.contents_area .inner_scroll_contents input[type="checkbox"]:checked + label { background-color: #00ab91; border-color: #00ab91; }
+.contents_area .inner_scroll_contents .etc_chk_area input[type="radio"]:checked + label,
+.contents_area .inner_scroll_contents .etc_chk_area input[type="checkbox"]:checked + label { border-color: #00ab91; }
+.bot_btn_area .btn_info_text { color: #00ab91; }
+.contents_area .select_date_area input[type="radio"]:checked + label,
+.contents_area .select_date_area input[type="checkbox"]:checked + label { background-color: #00ab91; }
+.contents_area .calc_price_area .top_area .discount { color: #00ab91; }
+.contents_area .contents_box .pay_method_list li label { color: #ffffff; background-color: #00ab91 }
+.contents_area .contents_box .btn span { color: #00ab91; }
+.contents_area .complete_area i { background-color: #00ab91; }
+.contents_area .top_info_list strong { color: #00ab91; }
+.contents_area .top_info_list ul li.point { color: #00ab91; }
+
+.contents_area .document_list li .bot_area .validity { color: #00ab91; }
+
+.gnb_area .gnb_list li a:active { color: #00ab91; }
+header .basket.active::after { background-color: #00ab91; }
+.input_box.type_search .search_keyword_area li em { color: #00ab91; }
+
+/* Main */
+.contents_area.main_contents .top_contents_box em { color: #00ab91; }
+.main_section01 .slide_area .box p em { color: #00ab91; }
+.contents_section.main_section02 .text_area.color_type .title { color: rgba(0,171,145,1); }
+.contents_section.main_section02 .text_area.color_type p strong { color: rgba(0,171,145,1); }
+.contents_section .section_title.notice_type { color: #00ab91; }
+.contents_section.main_section03 .notice_box_area .phone_num { color: #00ab91; }
+.contents_section.main_section03 .notice_box_area .btn_sub_text em { color: #00ab91; }
+
+.contents_area .guid_list_area .box .text_area.color_type .title { color: rgba(0,171,145,1); }
+.contents_area .guid_list_area .box .text_area.color_type p strong { color: rgba(0,171,145,1); }
+.contents_area .drop_down_list .top_area .title_area .title_point { color: #00ab91; }
+.contents_area .phone_guide_text strong { color: #00ab91; }
+.high::before { background-color: rgba(0,171,145,0.2); }
+.contents_area .drop_down_list .top_area .drop_arrow .st0 {stroke:#00ab91;}
+.contents_area.main_contents .swiper-pagination-bullet-active { background-color: #00ab91; }
+.contents_area.main_contents .swiper em { color: #00ab91; }
+.contents_section.main_section03 .notice_box_area .main_text em { color: #00ab91; }
+.contents_area .fix_type_title .bot_text em { color: #00ab91; }
+.contents_area .complete_area p em { color: #00ab91; }
+.contents_area .inner_scroll_contents .etc_chk_area input[type="radio"]:checked + label::after { border-color: #00ab91; }
+.contents_area .inner_scroll_contents.type_chk .etc_chk_area input[type="radio"]:checked + label::after { background-color: #00ab91; }
+/* SVG */
+.svg_main01 .st1{fill:#00AB91;}
+.svg_main02 .st0{fill:#00AB91;}
+.svg_main03 .st1{fill:#00AB91;}
+.svg_main04 .st0{fill:#00AB91;}
+
+.toast_popup .popup_btn_area .btn_sub_text { color: #00ab91; }
+.toast_popup .popup_btn_area .btn_sub_text svg .st0,
+.toast_popup .popup_btn_area .btn_sub_text svg .st1{stroke:#00ab91;}
+
+.bot_btn_area .btn_sub_list strong svg .st0{stroke:#00ab91;}
+.bot_btn_area .btn_sub_list strong svg .st1{stroke:#00ab91;}
+.contents_area .guide_main_box svg .st0{fill:#00ab91;}
+
+.contents_area .top_info_list strong svg .st0{stroke:#00ab91;}
+.contents_area .top_info_list strong svg .st1{stroke:#00ab91;}
+
+.bot_btn_area .btn_sub_text svg .st0{stroke:#00ab91;}
+.bot_btn_area .btn_sub_text svg .st1{stroke:#00ab91;}
+
+.contents_area .bot_text_area dt svg .st0{stroke:#00ab91;}
+.contents_area .bot_text_area dt svg .st1{stroke:#00ab91;}
+
+.contents_area .issued_guide_text dt svg .st0{stroke:#00ab91;}
+.contents_area .issued_guide_text dt svg .st1{stroke:#00ab91;}
+
+.contents_area .phone_guide_text strong svg .st0{stroke:#00ab91;}
+.contents_area .phone_guide_text strong svg .st1{stroke:#00ab91;}
+
+.contents_area .error_area svg .cls-1{fill:#00ab91;}
+
+.contents_area .terms_list_area ul label input:checked + i svg .cls-1{stroke:#00ab91;}
+
+.contents_area .child_add_contents .input_file_area .fake_btn { background-color: #00ab91; }
+.contents_area .child_add_contents .guide_text { color: #00ab91; }
+.contents_area .child_add_contents .input_chk_area input[type="radio"]:checked + label::before { border-color: #00ab91; }
+.contents_area .child_add_contents .input_chk_area input[type="checkbox"]:checked + label::before,
+.contents_area .terms_area .terms_chk_area input[type="checkbox"]:checked + label::before { background-color: #00ab91; }
+.contents_box .contents_box_title.swap_btn_type .swap_btn_area .btn:first-of-type { color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_three_line_text label .top_sub_text { color: #00ab91; }
+.contents_area .document_list li .name .label,
+.contents_area .document_list li .bot_area .btn_down { background-color: #00ab91; }
+.toast_popup .contents_area .inner_list input:checked + label { background-color: #00ab91; border-color: #00ab91; }
+.contents_area .document_list li .bot_area .text_area .end_date_view,
+.popup.typeB .popup_text_area.guide_text_type .popup_sub_text { color: #00ab91; }
+
+.list.type_date li input[type="radio"]:checked + .text_area::before { background-color: #00ab91; }
+.list.type_date li input[type="checkbox"]:checked + .text_area { background-color: #00ab91; }
+.list.type_date li input[type="radio"]:checked + .text_area { background-color: #00ab91; }
+.child_add_list_area .button_area .btn { color: #00ab91; }
+.child_add_list_area + .attech_area .attach_list_area .num { background-color: #00AB91; }
+.child_add_list_area + .attech_area .sub_text svg .st0,
+.child_add_contents .child_input_list + .sub_text svg .st0 { stroke:#00ab91; }
+.child_add_list_area + .attech_area .sub_text svg .st1,
+.child_add_contents .child_input_list + .sub_text svg .st1,
+.contents_area .inner_scroll_contents .list_guide_text svg .st0,
+.contents_area .inner_scroll_contents .list_guide_text svg .st1 { stroke:#00ab91; }
+.child_add_contents .child_input_list + .sub_text,
+.child_add_list_area + .attech_area .sub_text { color: #00ab91; }
+.child_add_list_area + .attech_area .save_chk_area .chk_area input[type="radio"]:checked + label::before { border-color: #00ab91; }
+.doc_regist_area .none_data_area svg .st1 { fill:#00ab91; }
+.doc_regist_area .none_data_area .file_btn_area .fake_btn i { background-color: #00ab91; }
+
+/* Datepicker */
+.dcalendarpicker .dudp__calendar-header { background-color: #00ab91; }
+.dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.current { color: #00ab91; }
+.dcalendarpicker .dudp__cal-container .dudp__buttons .dudp__button.ok { color: #00ab91; }
+.dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.in-range { background-color: #00ab911a; }
+.dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.range-from { background-color: #00ab911a; }
+.dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.range-to {  background-color: #00ab911a; }
+.dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.selected:before, .dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.range-from:before, .dcalendarpicker .dudp__cal-container .dudp__calendar .dudp__cal-week .dudp__date.range-to:before,
+.date_select_box.type_line.small_img_type .btn {
+  background-color: #00ab91;
+}
+.dcalendarpicker .dudp__cal-container .dudp__years-view .dudp__year.selected { color: #00ab91; }
+
+.popup.typeB .popup_text_area.guide_text_type .popup_sub_text::before { background-image: url(../image/icon_info_g.svg); }
+
+
+/* 강남차 진료내역 연동 */
+.popup.typeC .faq_view_area .faq_list dt::before { color: #00ab91; }
+.popup.typeC .chk_agree_area input[type="checkbox"]:checked + label::after,
+.contents_area .filter_area .all_chk_area input[type="checkbox"]:checked + label::after,
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box > input[type="checkbox"]:checked + label::after { background-color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box > input[type="checkbox"]:disabled + label::after { background-color: transparent; }
+.contents_area .document_list .state_complete .top_data_area .state,
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box label .guide_text { color: #00ab91; }
+
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box.on { border-color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box .sub_chk_area .sub_list input[type="checkbox"]:checked + label { background-color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_sub_chk_area .box .sub_text_area textarea:focus { border-color: #00ab91; }
+.contents_area .inner_scroll_contents .list_guide_text { color: #00ab91; }
+
+.guide_view_area .title_area .skip_btn { background-color: #00ab91; }
+.guide_main_btn_area .main_btn { background-color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_left_three_line label span.title .label span { color: #00ab91; }
+.contents_area .inner_scroll_contents .inner_list.type_left_three_line label span.title .label { border-color: #00ab91; }
+
+.contents_area .link_list.type_wide .faq_link { color: #00ab91; }
+.contents_area .link_list.type_wide .faq_link span { border-color: #00ab91; }
+.contents_area .link_list.type_wide .faq_link svg .st0{ fill:#00AB91; }
+
+.contents_area.session_expiration_view .contents_title_area .main_title { color: #00ab91; }
+.contents_area.session_expiration_view .search_result_view_area .link .title_area .label { color: #00ab91; border-color: #00ab91; }
+
+/* 모달 팝업*/
+.contents_area .modal_background .nurse_tab .guide_text { color: #00ab91; }
+
+.contents_area .modal_background .nurse_tab input[type="checkbox"]:checked + label::after { background-color: #00ab91; }
+.contents_area .modal_background .nurse_tab input[type="checkbox"]:disabled + label::after { background-color: transparent; }
+.contents_area .modal_background .nurse_tab .sub_chk_area .sub_list input[type="checkbox"]:checked + label { background-color: #00ab91; color: #ffffff }
+.contents_area .modal_background .detail_tab textarea:focus { background-color: #ffffff; }
+.textarea_focus { border: 1px solid #00ab91 ; background-color: #ffffff !important; }
+.contents_area .modal_background .nurse_tab .nurse_tab_btns .confirm_btn, .contents_area .modal_background .detail_tab .nurse_tab_btns .confirm_btn2
+ { background-color: #00ab91; color: #ffffff;}
